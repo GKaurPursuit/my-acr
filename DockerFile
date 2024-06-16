@@ -1,2 +1,2 @@
-FROM ruby:3.0
+FROM emcsregistry.azurecr.io as ruby
 RUN ECHO "Hello ruby"
